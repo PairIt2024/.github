@@ -20,13 +20,8 @@ PairIt is designed to run on a Raspberry Pi 4 with a touchscreen interface, crea
 - **Database**: MongoDB for data storage and management. 💾
 - **Deployment**: Raspberry Pi 4 for hosting the application on a kiosk. 🖥️
 
-## Getting Started 🚀
+## Contact 📞
+For any inquiries or issues, feel free to reach out:
 
-To get started with the PairIt project:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/<your-organization>/pairit.git
-   cd pairit
-
+Thank you for your interest in PairIt! We look forward to helping new students navigate their way around campus! 🎓
 
